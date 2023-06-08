@@ -14,6 +14,7 @@
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -101,6 +102,10 @@ To run the project, execute the following command:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ezekiel-udiomnuno)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Responsiveness]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
